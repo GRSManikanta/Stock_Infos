@@ -3,6 +3,7 @@ import { useEffect, useRef, useState } from "react";
 import { AssetTable } from "./AssetTable";
 import { Button } from "@/components/ui/button";
 import StockChart from "../StockDetails/StockChart";
+/*
 import {
   ChatBubbleIcon,
   ChevronLeftIcon,
